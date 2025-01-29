@@ -7,26 +7,26 @@ object FakeApiServiceGenerator {
 
     @JvmField
     var FAKE_USERS = mutableListOf(
-        User("001", "Jake", "https://api.adorable.io/AVATARS/512/1.png"),
-        User("002", "Paul", "https://api.adorable.io/AVATARS/512/2.png"),
-        User("003", "Phil", "https://api.adorable.io/AVATARS/512/3.png"),
-        User("004", "Guillaume", "https://api.adorable.io/AVATARS/512/4.png"),
-        User("005", "Francis", "https://api.adorable.io/AVATARS/512/5.png"),
-        User("006", "George", "https://api.adorable.io/AVATARS/512/6.png"),
-        User("007", "Louis", "https://api.adorable.io/AVATARS/512/7.png"),
-        User("008", "Mateo", "https://api.adorable.io/AVATARS/512/8.png"),
-        User("009", "April", "https://api.adorable.io/AVATARS/512/9.png"),
-        User("010", "Louise", "https://api.adorable.io/AVATARS/512/10.png"),
-        User("011", "Elodie", "https://api.adorable.io/AVATARS/512/11.png"),
-        User("012", "Helene", "https://api.adorable.io/AVATARS/512/12.png"),
-        User("013", "Fanny", "https://api.adorable.io/AVATARS/512/13.png"),
-        User("014", "Laura", "https://api.adorable.io/AVATARS/512/14.png"),
-        User("015", "Gertrude", "https://api.adorable.io/AVATARS/512/15.png"),
-        User("016", "Chloé", "https://api.adorable.io/AVATARS/512/16.png"),
-        User("017", "April", "https://api.adorable.io/AVATARS/512/17.png"),
-        User("018", "Marie", "https://api.adorable.io/AVATARS/512/18.png"),
-        User("019", "Henri", "https://api.adorable.io/AVATARS/512/19.png"),
-        User("020", "Rémi", "https://api.adorable.io/AVATARS/512/20.png")
+        User("001", "Jake", "https://robohash.org/1.png?size=300x300"),
+        User("002", "Paul", "https://robohash.org/2.png?size=300x300"),
+        User("003", "Phil", "https://robohash.org/3.png?size=300x300"),
+        User("004", "Guillaume", "https://robohash.org/4.png?size=300x300"),
+        User("005", "Francis", "https://robohash.org/5.png?size=300x300"),
+        User("006", "George", "https://robohash.org/6.png?size=300x300"),
+        User("007", "Louis", "https://robohash.org/7.png?size=300x300"),
+        User("008", "Mateo", "https://robohash.org/8.png?size=300x300"),
+        User("009", "April", "https://robohash.org/9.png?size=300x300"),
+        User("010", "Louise", "https://robohash.org/10.png?size=300x300"),
+        User("011", "Elodie", "https://robohash.org/11.png?size=300x300"),
+        User("012", "Helene", "https://robohash.org/12.png?size=300x300"),
+        User("013", "Fanny", "https://robohash.org/13.png?size=300x300"),
+        User("014", "Laura", "https://robohash.org/14.png?size=300x300"),
+        User("015", "Gertrude", "https://robohash.org/15.png?size=300x300"),
+        User("016", "Chloé", "https://robohash.org/16.png?size=300x300"),
+        User("017", "April", "https://robohash.org/17.png?size=300x300"),
+        User("018", "Marie", "https://robohash.org/18.png?size=300x300"),
+        User("019", "Henri", "https://robohash.org/19.png?size=300x300"),
+        User("020", "Rémi", "https://robohash.org/20.png?size=300x300")
     )
 
     @JvmField
